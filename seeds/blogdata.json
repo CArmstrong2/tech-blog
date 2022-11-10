@@ -1,0 +1,9 @@
+[
+    {
+     "id": 1,
+     "name": "First Post",
+     "content": "Hello world",
+     "date_created": 1667682473737,
+     "user_id": 1
+    }
+]
