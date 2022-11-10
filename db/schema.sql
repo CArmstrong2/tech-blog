@@ -1,4 +1,4 @@
-DROP DATABASE IF EXISTS codeshare_db;
-CREATE DATABASE codeshare_db;
+DROP DATABASE IF EXISTS techblog_db;
+CREATE DATABASE techblog_db;
 
-USE codeshare_db;
+USE techblog_db;
